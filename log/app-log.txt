@@ -1,0 +1,28 @@
+{"fields.time":"2018-02-03T20:43:13Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T03:43:13+07:00"}
+{"fields.time":"2018-02-03T20:44:46Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T03:44:46+07:00"}
+{"fields.time":"2018-02-03T20:45:02Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T03:45:02+07:00"}
+{"fields.time":"2018-02-03T20:48:18Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T03:48:18+07:00"}
+{"fields.time":"2018-02-03T21:07:29Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T04:07:29+07:00"}
+{"fields.time":"2018-02-03T21:08:22Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T04:08:22+07:00"}
+{"fields.time":"2018-02-03T21:11:22Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T04:11:22+07:00"}
+{"fields.time":"2018-02-04T03:25:08Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T10:25:08+07:00"}
+{"fields.time":"2018-02-04T03:28:53Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T10:28:53+07:00"}
+{"fields.time":"2018-02-04T03:56:33Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T10:56:33+07:00"}
+{"fields.time":"2018-02-04T04:14:52Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T11:14:52+07:00"}
+{"fields.time":"2018-02-04T04:19:12Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T11:19:12+07:00"}
+{"fields.time":"2018-02-04T04:19:32Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T11:19:32+07:00"}
+{"fields.time":"2018-02-04T05:40:27Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T12:40:27+07:00"}
+{"fields.time":"2018-02-04T05:40:28Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T12:40:28+07:00"}
+{"fields.time":"2018-02-04T05:44:03Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T12:44:03+07:00"}
+{"fields.time":"2018-02-04T05:44:32Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T12:44:32+07:00"}
+{"fields.time":"2018-02-04T05:52:38Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T12:52:38+07:00"}
+{"fields.time":"2018-02-04T06:26:41Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:26:41+07:00"}
+{"fields.time":"2018-02-04T06:29:04Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:29:04+07:00"}
+{"fields.time":"2018-02-04T06:31:35Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:31:35+07:00"}
+{"fields.time":"2018-02-04T06:37:28Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:37:28+07:00"}
+{"fields.time":"2018-02-04T06:45:20Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:45:20+07:00"}
+{"fields.time":"2018-02-04T06:46:46Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:46:46+07:00"}
+{"fields.time":"2018-02-04T06:47:48Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:47:48+07:00"}
+{"fields.time":"2018-02-04T06:49:42Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"Database Connection Started","source":"provider.go:29","time":"2018-02-04T13:49:42+07:00"}
+{"fields.time":"2018-02-04T06:49:48Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"{959992190400991232 sdfsd $2a$14$JtjmsXj.PBdKKYLZ.AML0.WsvYSIGRhz.gjK1V34G6ui6Y1n8m7JG gggggeeeeee sdfsd  0 []}","source":"userApi.go:86","time":"2018-02-04T13:49:48+07:00"}
+{"fields.time":"2018-02-04T06:50:20Z","hostname":"Muhammads-MacBook-Pro-2.local","level":"info","msg":"{959992190400991232 sdfsd $2a$14$JtjmsXj.PBdKKYLZ.AML0.WsvYSIGRhz.gjK1V34G6ui6Y1n8m7JG gggggeeeeee sdfsd  0 []}","source":"userApi.go:86","time":"2018-02-04T13:50:20+07:00"}

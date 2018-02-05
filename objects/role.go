@@ -1,0 +1,5 @@
+package objects
+
+const ADMINISTRATOR = "ADMINISTRATOR"
+const VENDOR = "VENDOR"
+const AFFILIATE = "AFFILIATE"
